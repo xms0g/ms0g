@@ -17,10 +17,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0msg&show_icons=true&line_height=33&count_private=true&theme=prussian" alt="0msg's GitHub Stats" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0msg&hide=cmake&langs_count=4&line_height=35&theme=prussian" />
 </a>
 
-<a href="https://hasherezade.net">
+<a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0msg&theme=prussian" />
 </a>
