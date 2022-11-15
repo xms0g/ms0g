@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="#">
-  <img src="https://readme-streak-stats-0.herokuapp.com?user=0msg&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0msg&theme=tokyonight" />
 </a> <br/>
 <a href="https://twitter.com/0ms_g">
   <img src="https://img.shields.io/twitter/follow/0ms_g?style=for-the-badge&logo=twitter&labelColor=1a1b27&color=39bdae" />
