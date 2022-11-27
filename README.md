@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 -->
 #### &#x1f4c8; My GitHub Stats
 <a href="#">
-  <img align="center" src="https://github-readme-stats-0msg.vercel.app/api?username=0msg&show_icons=true&line_height=33&count_private=true&theme=tokyonight" alt="0msg's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-0msg.vercel.app/api?username=ms0g&show_icons=true&line_height=33&count_private=true&theme=tokyonight" alt="0msg's GitHub Stats" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats-0msg.vercel.app/api/top-langs/?username=0msg&hide=cmake&langs_count=4&line_height=35&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-0msg.vercel.app/api/top-langs/?username=ms0g&hide=cmake&langs_count=4&line_height=35&theme=tokyonight" />
 </a>
 
 <a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=0msg&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ms0g&theme=tokyonight" />
 </a> <br/>
 <a href="https://twitter.com/0ms_g">
   <img src="https://img.shields.io/twitter/follow/0ms_g?style=for-the-badge&logo=twitter&labelColor=1a1b27&color=39bdae" />
