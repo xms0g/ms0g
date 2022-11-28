@@ -25,5 +25,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ms0g&theme=tokyonight" />
 </a> <br/>
 <a href="https://twitter.com/0ms_g">
-  <img src="https://img.shields.io/twitter/follow/0ms_g?style=for-the-badge&logo=twitter&labelColor=1a1b27&color=39bdae" />
+  <img src="https://img.shields.io/twitter/follow/_ms0g?style=for-the-badge&logo=twitter&labelColor=1a1b27&color=39bdae" />
 </a>
