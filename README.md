@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 #### &#x1f4c8; My GitHub Stats
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ms0g&show_icons=true&line_height=33&count_private=true&theme=tokyonight" alt="0msg's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xms0g&show_icons=true&line_height=33&count_private=true&theme=tokyonight" alt="0msg's GitHub Stats" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms0g&hide=cmake&langs_count=4&line_height=35&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xms0g&hide=cmake&langs_count=4&line_height=35&theme=tokyonight" />
 </a>
 
 <a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ms0g&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xms0g&theme=tokyonight" />
 </a> <br/>
